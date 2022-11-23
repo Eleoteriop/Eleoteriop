@@ -1,4 +1,6 @@
+## Olá eu sou o Patrick Eleoterio 👋🏻
 
+<img align="right" alt="Gif" height="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 📩 Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickeleoterio/)
@@ -48,5 +50,3 @@
 <img align="center" alt="VScode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
-
-https://giphy.com/gifs/publydea-coffee-drink-cafe-izRzdv985Jf9X0Hx0p
