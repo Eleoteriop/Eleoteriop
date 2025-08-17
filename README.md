@@ -1,6 +1,6 @@
 ## Olá eu sou o Patrick Eleoterio, sou estudando de Análise e Desenvolvimento de Sistemas👋🏻
 
-<img align="right" alt="Gif" height="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## 📩 Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickeleoterio/) 
@@ -11,6 +11,7 @@
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eleoteriop&show_icons=true&theme=transparent">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eleoteriop&layout=compact&langs_count=8&card_width=220"/>
+<img align="right" alt="Gif" height="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ## 🎓 Ferramentas e Tecnologias do dia a dia
