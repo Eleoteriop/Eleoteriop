@@ -1,5 +1,5 @@
-## Olá eu sou o Patrick Eleoterio, sou estudando de Análise e Desenvolvimento de Sistemas👋🏻
-
+## Olá eu sou o Patrick Eleoterio👋🏻
+### Sou estudando de Análise e Desenvolvimento de Sistemas
 
 ## 📩 Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickeleoterio/) 
