@@ -10,7 +10,7 @@
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eleoteriop&show_icons=true&theme=transparent">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eleoteriop&layout=compact&langs_count=8&card_width=220"/>
-<img align="right" alt="Gif" height="50" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Gif" height="100em" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 ## 🎓 Ferramentas e Tecnologias do dia a dia
